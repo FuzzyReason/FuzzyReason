@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I am [Vadim Smirnov](https://fuzzyreason.io/)!
 
-<!--
-**FuzzyReason/FuzzyReason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software engineer and community leader (currently for Facebook DevC) from Minsk, Belarus. I use HTML, CSS, and JavaScript to make products that make life easier and better for people, my focus is front-end development with React.js, Gatsby, and everything that relates to the React ecosystem. Truly believe in the power of community and teamwork.
 
-Here are some ideas to get you started:
+I am inspired by music, football, my dog, and a cup of well-brewed coffee.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Feel free to contact me 👇
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/smirnovvadim/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_diogorodrigues)](https://twitter.com/vadim__smirnov)
+
+
+**[fuzzyreason.io](https://fuzzyreason.io/)**
+
