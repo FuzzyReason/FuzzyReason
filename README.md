@@ -8,10 +8,10 @@ I am inspired by music, football, my dog, and a cup of well-brewed coffee.
 
 <p align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=fuzzyreason&show_icons=true&count_private=true&title_color=553c9a&text_color=1a202c&icon_color=553c9a&include_all_commits=true" alt="Contributions" />
+    <img height=175 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=fuzzyreason&show_icons=true&count_private=true&title_color=553c9a&text_color=1a202c&icon_color=553c9a&include_all_commits=true" alt="Contributions" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuzzyreason&layout=compact&title_color=553c9a&text_color=1a202c" alt="Most used languages" />
+  <img height=175 width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuzzyreason&layout=compact&title_color=553c9a&text_color=1a202c" alt="Most used languages" />
   </a>
 </p>
 
